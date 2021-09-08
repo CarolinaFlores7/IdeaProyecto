@@ -1,4 +1,4 @@
-##Proyecto de prueba para CoderHouse
+Proyecto de prueba para CoderHouse
 
 Idea de Proyecto clase 14: Creando repositorio en GitHub.
 
